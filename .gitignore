@@ -1,0 +1,21 @@
+# Local secrets and runtime files
+config/conexion.php
+config/mercadopago.local.php
+.env
+.env.*
+!.env.example
+*.log
+
+# Local deployment bundles and snapshots
+*.zip
+deploy-*/
+
+# User-generated uploads and local runtime data
+uploads/*
+!uploads/.gitkeep
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

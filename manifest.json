@@ -1,0 +1,10 @@
+{
+  "name": "DarkNovels",
+  "short_name": "DarkNovels",
+  "start_url": "./index.php",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#C1121F",
+  "description": "Plataforma web y movil de novelas de suspenso y accion.",
+  "icons": []
+}
